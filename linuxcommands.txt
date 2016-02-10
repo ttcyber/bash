@@ -1,3 +1,8 @@
+set a static ip on an Rpi
+#ifconfig eth0 192.168.1.x  where x in a unigue number
+example
+#ifconfig eth0 192.168.1.10
+
 delete a file
 $rm nameofile
 
