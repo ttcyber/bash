@@ -1,0 +1,12 @@
+delete a file
+$rm nameofile
+
+$delete a folder (you always don't need the -f
+rm -fR nameoffolder/
+
+copy a file
+cp nameoffile  newnameoffile
+
+colpy a folder
+
+cp -fR nameoffolder/  /home/user/Desktop/
